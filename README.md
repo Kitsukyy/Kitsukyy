@@ -44,12 +44,10 @@ I enjoy understanding how systems work, building small projects, and turning ide
     <a href="https://www.linux.org/" target="_blank">
       <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" />
     </a>
-  </p>
-
-My discord
-   <a href="https://canary.discord.com/users/657302208924090413">
-     <img src="My discord https://skillicons.dev/icons?i=discord" width="40" alt="My Discord">
+    <a href="https://canary.discord.com/users/657302208924090413">
+     <img src="https://skillicons.dev/icons?i=discord" width="40" alt="Discord">
    </a>
+  </p>
 
 ## GitHub Stats
 
