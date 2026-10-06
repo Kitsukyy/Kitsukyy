@@ -1,4 +1,3 @@
-# Hello World, I'm Kitsuky
 
 > Computer Science student focused on Python, Linux, and software development.
 
