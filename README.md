@@ -46,10 +46,9 @@ I enjoy understanding how systems work, building small projects, and turning ide
     </a>
   </p>
 
-## My discord
-
+My discord
    <a href="https://canary.discord.com/users/657302208924090413">
-     <img src="https://skillicons.dev/icons?i=discord" width="40" alt="Discord">
+     <img src="My discord https://skillicons.dev/icons?i=discord" width="40" alt="My Discord">
    </a>
 
 ## GitHub Stats
