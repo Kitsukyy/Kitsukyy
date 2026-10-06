@@ -1,16 +1,35 @@
-## Hi there 👋
+  # Kitsuky
 
-<!--
-**Kitsukyy/Kitsukyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Building, learning and understanding.
 
-Here are some ideas to get you started:
+I'm a programming student focused on Python, Linux, software development...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I like understanding how things work, building small projects and turning what I learn into something practical.
+
+
+  ## Currently learning
+
+- Python
+- Css
+- Html
+- JavaScript
+- Game Hacking
+- Reverse Engine
+- Git & GitHub
+- Software development fundamentals
+
+
+  ## Tools & Technologies
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.linux.org/)
+[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+
+
+  ## Projects
+
+> Projects will be added as they evolve.
+
+
+![Kitsuky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kitsuky&show_icons=true&theme=transparent&hide_border=true)
