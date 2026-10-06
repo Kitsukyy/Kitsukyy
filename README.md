@@ -2,7 +2,7 @@
 
 > Computer Science student focused on Python, Linux, and software development.
 
-I enjoy understanding how systems work, building small projects, and turning ideas into practical solutions. My interests include software engineering fundamentals, scripting, Linux, and learning by doing.
+I enjoy understanding how systems work, building small projects, and turning ideas into practical solutions. My interests include software engineering, scripting, Linux, and learning by doing.
 
 ## Currently learning
 
@@ -12,8 +12,7 @@ I enjoy understanding how systems work, building small projects, and turning ide
 - CSS
 - JavaScript
 - Git & GitHub
-- Linux
-- Software development fundamentals
+- Software development
 - Reverse engineering & security concepts
 
 ## Tools & Technologies
