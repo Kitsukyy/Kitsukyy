@@ -1,4 +1,4 @@
-# Hi, I'm Kitsukyy 👋
+# Hi, I'm Kitsukyy
 
 > Computer Science student focused on Python, Linux, and software development.
 
