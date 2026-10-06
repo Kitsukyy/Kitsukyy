@@ -15,15 +15,6 @@ I enjoy understanding how systems work, building small projects, and turning ide
 - Software development
 - Reverse engineering & security concepts
 
- ----
-
-[Discord](https://canary.discord.com/users/657302208924090413) 
-<a href="https://canary.discord.com/users/657302208924090413">
-  <img src="https://skillicons.dev/icons?i=discord" width="40" alt="Discord">
-</a>
-
- ----
-
 ## Tools & Technologies
 
   <p align="left">
@@ -54,6 +45,9 @@ I enjoy understanding how systems work, building small projects, and turning ide
     <a href="https://www.linux.org/" target="_blank">
       <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" />
     </a>
+   <a href="https://canary.discord.com/users/657302208924090413">
+     <img src="https://skillicons.dev/icons?i=discord" width="40" alt="Discord">
+   </a>
   </p>
 
 ## GitHub Stats
