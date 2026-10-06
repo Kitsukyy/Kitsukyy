@@ -7,6 +7,7 @@ I enjoy understanding how systems work, building small projects, and turning ide
 ## Currently learning
 
 - Python
+- Django
 - HTML
 - CSS
 - JavaScript
@@ -20,6 +21,9 @@ I enjoy understanding how systems work, building small projects, and turning ide
   <p align="left">
     <a href="https://www.python.org/" target="_blank">
       <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" />
+    </a>
+    <a href="https://www.djangoproject.com/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=django" alt="Django" width="40" />
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
       <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40" />
